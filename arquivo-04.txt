@@ -1,1 +1,2 @@
 Exemplo feature-f3
+Feature f2 inserida
