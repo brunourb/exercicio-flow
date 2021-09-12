@@ -1,3 +1,4 @@
 Exemplo feature-f3
 Feature f2 inserida
 Exemplo feature-f4
+Bugfix correcao 1.0.0
